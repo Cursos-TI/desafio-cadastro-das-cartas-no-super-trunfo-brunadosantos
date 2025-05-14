@@ -9,7 +9,6 @@
 int main() {
     // DEFINIÇÃO DE VARIÁVEIS
     
-    int carta;
     char estado[50];
     char codigo[50];
     char cidade[50];
